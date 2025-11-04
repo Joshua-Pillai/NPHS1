@@ -1,2 +1,10 @@
-# Nephrin
-Molecular basis of nephrin
+# Supplementary Data for Pillai et al., (2025)
+
+```bibtex
+@Article{
+  author  = {Joshua P. Pillai},
+  journal = {bioRxiv},
+  title   = {A molecular basis for Nephrin: A structure uncovering the loss-of-function effects of missense variants associated with congenital nephrotic syndrome of the Finnish type},
+  doi     = {Pending}
+}
+```
