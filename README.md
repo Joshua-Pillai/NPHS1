@@ -4,7 +4,7 @@
 @Article{
   author  = {Joshua P. Pillai, John A. Sayer},
   journal = {bioRxiv},
-  title   = {A molecular basis for Nephrin: A structure uncovering the loss-of-function effects of missense variants associated with congenital nephrotic syndrome of the Finnish type},
+  title   = {Nephrin missense variants affecting post-translational modifications and surface exposure in the slit diaphragm},
   doi     = {Pending}
 }
 ```
